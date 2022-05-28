@@ -1,0 +1,4 @@
+Rencana Belajar Coding
+- Membuat video javascript
+- Framework CSS
+- Diskusi
