@@ -1,4 +1,4 @@
 Rencana Belajar Coding
-- Membuat video
-- Framework
+- Membuat video javascript
+- Framework CSS
 - Diskusi
