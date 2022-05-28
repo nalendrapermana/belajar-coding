@@ -2,5 +2,5 @@ Belajar Coding
 - HTML
 - CSS
 - BOOTSTRAP
-- Git
 - GitHub
+- Python
